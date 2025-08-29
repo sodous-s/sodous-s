@@ -6,4 +6,4 @@ English|[中文](Chinese.md)
 
 [![bilibili](https://img.shields.io/badge/bilibili-@sodous--手抖-268bd2?style=flat&logo=link)](https://space.bilibili.com/3546887300843548)
 
-I'm currently working on a language called VastNova,If you are interested in joining us, you can send us a PR request,[here]()
+I'm currently working on a language called VastNova,If you are interested in joining us, you can send us a PR request,[here](https://github.com/sodous-s/vastnova/blob/main/English.md)
