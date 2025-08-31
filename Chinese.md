@@ -7,4 +7,4 @@
 
 [![bilibili](https://img.shields.io/badge/bilibili-@sodous--手抖-268bd2?style=flat&logo=link)](https://space.bilibili.com/3546887300843548)
 
-我目前正在研究一种叫做 VastNova 的语言，如果你有兴趣加入我们，可以给我们发一个 PR 请求，[这里](https://github.com/sodous-s/vastnova/blob/main/README.md)
+我目前正在研究一种叫做 VastNova 的语言，如果你有兴趣加入我们，可以给我们发一个 PR 请求，[这里](https://github.com/sodous-s/vastnova)
